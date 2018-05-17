@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test runner" >
+
+       <test name="Facebook">
+
+              <!--  parameter name="browser" value="FF"></parameter>-->
+
+              <classes>
+
+                     <class name="Runners.DefaultRunner" />
+
+              </classes>
+
+       </test>
+
+</suite>
